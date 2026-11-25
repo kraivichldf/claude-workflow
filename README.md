@@ -18,7 +18,7 @@ skills it relies on.
 Windows (PowerShell):
 
 ```powershell
-git clone https://github.com/kraivich-wim-dev/claude-workflow.git
+git clone https://github.com/kraivichldf/claude-workflow.git
 .\claude-workflow\install.ps1
 ```
 
